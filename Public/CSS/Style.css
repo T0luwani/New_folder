@@ -1,0 +1,144 @@
+#intro{
+    padding: 10em 0 5em 0;
+    background-color: #eee;
+}
+.nav-link{
+    font-size: 20px;
+    color: brown !important;
+}
+.active{
+    border-bottom: 1px solid brown;
+}
+.nav-link:hover{
+    border-bottom: 1px solid brown;
+}
+#body1{
+    padding: 5em 0 6em 0;
+}
+.header-margin{
+    margin-bottom: 4rem !important;
+}
+.para-padding{
+    padding-top: 8rem;
+}
+@media (max-width: 992px) {
+    .para-padding{
+        padding-top: 3rem;
+    }
+    .nav-link{
+        font-size: 16px;
+    }
+    .nav-link ul>li{
+        margin-right: 1.5rem;
+    }
+}
+@media (max-width: 768px) {
+    .para-padding{
+        padding-top: 3rem;
+    }
+}
+/* .navbar{
+    background-color: skyblue;
+}
+.navbar .container{
+    display: flex;
+    justify-content: space-between;
+}
+.navbar-brand a{
+    color: #000000;
+    font-size: 22px;
+    text-decoration: none;
+}
+.nav-item{
+    display: inline-block;
+    margin-left: 124px;
+}
+.nav-link{
+    text-decoration: none;
+    color: #fff;
+}
+.nav-link:hover{
+    border-bottom: 1px solid darkblue;
+    padding: 10px;
+}
+#intro{
+    padding: 10em 0;
+    background-color: #eee;
+}
+.intro{
+    text-align: center;
+}
+.intro .header{
+    font-size: 56px;
+    padding-bottom: 3px;
+    font-weight: 700;
+    font-family: Georgia, Times, 'Times New Roman', sans-serif;
+}
+.intro .para{
+    font-size: 24px;
+    padding-bottom: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.intro .link{
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid blue;
+    background-color: deepskyblue;
+    padding: 5px 25px;
+    font-size: 30px;
+    border-radius: 50px;
+}
+.body-1{
+    padding: 4em 0;
+    background-color: #fff;
+}
+.body-1 .body1-head{
+    text-align: center;
+    font-size: 3.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.body-1 .seperate{
+    display: flex;
+}
+.body-1 .seperate img{
+    height: 80%;
+    width: 80%;
+
+}
+.body-1 .seperate p{
+    font-size: 30px;
+    color: grey;
+    line-height: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+footer{
+    padding: 4em 0;
+    background-color: #ccc;
+}
+footer .container{
+    display: flex;
+}
+.col-md-3{
+    width: 33.333%;
+}
+.footer-links{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+footer li{
+    list-style: none;
+    margin-bottom: 10px;
+}
+footer h3 a{
+    text-decoration: none;
+    color: #000000;
+    font-size: 35px;
+}
+footer p{
+    font-size: 20px;
+    font-weight: 450;
+    line-height: 40px;
+    width: 80%;
+} */
